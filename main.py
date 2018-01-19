@@ -25,8 +25,8 @@ np.set_printoptions(linewidth=300)
 
 
 #	Paper publication experiments / uncomment one experiment to run it
-import small
-#import data_4
+#import small
+import data_4
 #import large_4_gauss
 #import moon
 #import moon_N

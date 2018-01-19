@@ -2370,3 +2370,41 @@
 	:::::::::: Cut and Paste :::::::
 	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
 	0.0	0.0	1.99	1.0	-1.592	0.024	0.0	-1.592	0.024
+:::::::: ISM default RUN  at data_4 ::::::::
+--- 0.0240440368652 seconds ---
+	q used : 1
+	orig num clusters :2
+	alt num clusters :2
+	sigma used : 1
+	median of pairwise distance : 5.03677659117
+	lambda used : 0.04
+	Alt vs Alt NMI : 0.0
+	Alt vs Orig NMI : 1.0
+	Cost : -1.59217002787
+	CQ : 1.9897211343
+	Altness : 9.93877766092
+	Lagrange Gradient : 4.64116407279e-07
+
+	Run Hash : 02e589ca-b23a-40dd-904f-e5f115a2b1e2
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.0	0.0	1.99	1.0	-1.592	0.024	0.0	-1.592	0.024
+:::::::: ISM default RUN  at data_4 ::::::::
+--- 0.0238320827484 seconds ---
+	q used : 1
+	orig num clusters :2
+	alt num clusters :2
+	sigma used : 1
+	median of pairwise distance : 5.03677659117
+	lambda used : 0.04
+	Alt vs Alt NMI : 0.0
+	Alt vs Orig NMI : 1.0
+	Cost : -1.59217002787
+	CQ : 1.9897211343
+	Altness : 9.93877766092
+	Lagrange Gradient : 4.64116408221e-07
+
+	Run Hash : 47223961-406d-448f-b6c3-2b311d117618
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.0	0.0	1.99	1.0	-1.592	0.024	0.0	-1.592	0.024
