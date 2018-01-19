@@ -1,0 +1,1 @@
+:::::::: ISM default RUN  at Dimond_gaussians_64_1024 ::::::::

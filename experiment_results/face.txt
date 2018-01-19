@@ -1,0 +1,2955 @@
+:::::::: ISM default RUN  at face ::::::::
+--- 5.25889182091 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.01
+	lambda_ratio : 1
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.253
+	Alt vs Orig NMI : 0.064
+	Cost : -0.0270214070958
+	CQ : 0.0760731221026
+	Altness : 4.90517150068
+
+	Run Hash : 1fc7829d-cba9-4457-a051-4a241cfe00e4
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.253	-0.027	5.259
+:::::::: ISM default RUN  at face ::::::::
+--- 4.34040808678 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.1
+	lambda_ratio : 1
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.486
+	Alt vs Orig NMI : 0.02
+	Cost : 0.534119083432
+	CQ : 0.0765866558002
+	Altness : 6.10705739233
+
+	Run Hash : df8dde4e-74c1-4b1f-bc23-b1eaa3a15774
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.486	0.534	4.34
+:::::::: ISM default RUN  at face ::::::::
+--- 5.34628891945 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.494
+	Alt vs Orig NMI : 0.015
+	Cost : 0.644285242908
+	CQ : 0.0765612429544
+	Altness : 6.03459818892
+
+	Run Hash : 52c0316f-8f2c-49b9-aeed-27003081eefb
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.494	0.644	5.346
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.06 ± 0.029
+	Alt : 1.2 ± 0.12
+	CQ : 0.02 ± 0.002
+	Cost : 0.04 ± 0.013
+	Time : 3.54 ± 1.276
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0561268910896
+	lambda_ratio : 10
+	HSIC ratio : 0.00561268910896
+	:::::  Past into data table ::::::
+	0.06±0.029	0.02±0.002	1.2±0.12	0.04±0.013	3.54±1.276
+
+:::::::: ISM default RUN  at face ::::::::
+--- 6.76031017303 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.323
+	Alt vs Orig NMI : 0.035
+	Cost : 0.578176859773
+	CQ : 0.0764184059316
+	Altness : 5.47997317371
+
+	Run Hash : 9466aea0-d520-404e-aca9-b9ffe595a8f8
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.323	0.578	6.76
+:::::::: ISM default RUN  at face ::::::::
+--- 6.92727804184 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.324
+	Alt vs Orig NMI : 0.032
+	Cost : 0.578002236956
+	CQ : 0.0764184059316
+	Altness : 5.47851131109
+
+	Run Hash : 0448c84b-64e1-4749-b570-62fd14318ade
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.324	0.578	6.927
+:::::::: ISM default RUN  at face ::::::::
+--- 6.82915401459 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.323
+	Alt vs Orig NMI : 0.035
+	Cost : 0.578176859773
+	CQ : 0.0764184059316
+	Altness : 5.47997317371
+
+	Run Hash : 4a094b3a-3f0e-4a83-9990-e7c5788eddd6
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.323	0.578	6.829
+:::::::: ISM default RUN  at face ::::::::
+--- 5.2211689949 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.494
+	Alt vs Orig NMI : 0.015
+	Cost : 0.644285242908
+	CQ : 0.0765612429544
+	Altness : 6.03459818892
+
+	Run Hash : 0aa9c847-e9bb-4b3a-8661-5e019cdbfaf9
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.494	0.644	5.221
+:::::::: ISM default RUN  at face ::::::::
+--- 7.1843559742 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.323
+	Alt vs Orig NMI : 0.035
+	Cost : 0.578176859773
+	CQ : 0.0764184059316
+	Altness : 5.47997317371
+
+	Run Hash : 52ecd294-958e-4b84-9922-8e2c3c4de0b3
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.323	0.578	7.184
+:::::::: ISM default RUN  at face ::::::::
+--- 8.00635504723 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.461
+	Alt vs Orig NMI : 0.02
+	Cost : 0.62148285357
+	CQ : 0.0765335731263
+	Altness : 5.84347534043
+
+	Run Hash : 52f40171-757b-4757-a74e-1e69165cfa14
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.461	0.621	8.006
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 9.11016607285 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0446024404006
+	lambda_ratio : 10
+	HSIC ratio : 0.00446024404006
+	Alt vs Alt NMI : 0.36
+	Alt vs Orig NMI : 0.025
+	Cost : 0.164370230223
+	CQ : 0.0762761834859
+	Altness : 5.39536427935
+
+	Run Hash : 8a766428-73b4-4122-85b4-f6daf98ba6a3
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.36	0.164	9.11
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 9.38811898232 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0440704443057
+	lambda_ratio : 10
+	HSIC ratio : 0.00440704443057
+	Alt vs Alt NMI : 0.351
+	Alt vs Orig NMI : 0.028
+	Cost : 0.157161928612
+	CQ : 0.0762698546516
+	Altness : 5.29678760768
+
+	Run Hash : 9b24f26c-0f47-4e9e-84e1-cfaa031e2810
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.351	0.157	9.388
+:::::::: RUN  with W0 at face using DG ::::::::
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.05 ± 0.022
+	Alt : 1.32 ± 0.109
+	CQ : 0.02 ± 0.003
+	Cost : 0.04 ± 0.012
+	Time : 3.89 ± 1.606
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0513648778979
+	lambda_ratio : 10
+	HSIC ratio : 0.00513648778979
+	:::::  Past into data table ::::::
+	0.05±0.022	0.02±0.003	1.32±0.109	0.04±0.012	3.89±1.606
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.09 ± 0.046
+	Alt : 1.37 ± 0.174
+	CQ : 0.02 ± 0.003
+	Cost : 0.04 ± 0.015
+	Time : 4.55 ± 2.122
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0437444612717
+	lambda_ratio : 10
+	HSIC ratio : 0.00437444612717
+	:::::  Past into data table ::::::
+	0.09±0.046	0.02±0.003	1.37±0.174	0.04±0.015	4.55±2.122
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.06 ± 0.03
+	Alt : 1.31 ± 0.139
+	CQ : 0.02 ± 0.002
+	Cost : 0.04 ± 0.017
+	Time : 3.28 ± 1.611
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0502439080653
+	lambda_ratio : 10
+	HSIC ratio : 0.00502439080653
+	:::::  Past into data table ::::::
+	0.06±0.03	0.02±0.002	1.31±0.139	0.04±0.017	3.28±1.611
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.06 ± 0.019
+	Alt : 1.33 ± 0.104
+	CQ : 0.02 ± 0.003
+	Cost : 0.04 ± 0.007
+	Time : 3.44 ± 2.102
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0440704443057
+	lambda_ratio : 10
+	HSIC ratio : 0.00440704443057
+	:::::  Past into data table ::::::
+	0.06±0.019	0.02±0.003	1.33±0.104	0.04±0.007	3.44±2.102
+:::::::: ISM default RUN  at face ::::::::
+--- 11.9033129215 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.328
+	Alt vs Orig NMI : 0.029
+	Cost : 1.06909404869
+	CQ : 0.0763791844016
+	Altness : 5.52253117576
+
+	Run Hash : c906e794-86c6-41a3-b30c-af9614b8b6ac
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.328	1.069	11.903
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 17.2728078365 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.199453269838
+	lambda_ratio : 10
+	HSIC ratio : 0.0199453269838
+	Alt vs Alt NMI : 0.397
+	Alt vs Orig NMI : 0.026
+	Cost : 1.08748431987
+	CQ : 0.0764594204597
+	Altness : 5.83567138945
+
+	Run Hash : 74da5d4c-c1fc-4bd1-b91f-5b147ae46461
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.397	1.087	17.273
+:::::::: RUN  with W0 at face using DG ::::::::
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.1 ± 0.026
+	Alt : 1.62 ± 0.245
+	CQ : 0.02 ± 0.001
+	Cost : 0.32 ± 0.058
+	Time : 11.77 ± 4.898
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.220871897414
+	lambda_ratio : 10
+	HSIC ratio : 0.0220871897414
+	:::::  Past into data table ::::::
+	0.1±0.026	0.02±0.001	1.62±0.245	0.32±0.058	11.77±4.898
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 12.0755748749 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.328
+	Alt vs Orig NMI : 0.029
+	Cost : 1.06909404869
+	CQ : 0.0763791844016
+	Altness : 5.52253117576
+
+	Run Hash : 6e643f27-4038-4709-b044-b6345feb5356
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.328	1.069	12.076
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 12.347340107 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.478
+	Alt vs Orig NMI : 0.026
+	Cost : 1.2645326806
+	CQ : 0.0774772091281
+	Altness : 6.47006952241
+
+	Run Hash : 34e8db74-49e6-4f07-abc7-d15ce2801468
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.478	1.265	12.347
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 12.402670145 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.478
+	Alt vs Orig NMI : 0.026
+	Cost : 1.2645326806
+	CQ : 0.0774772091281
+	Altness : 6.47006952241
+
+	Run Hash : 8541830f-3317-41fa-9863-1d6d9cdd7f71
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	0.478	1.265	12.403
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.09 ± 0.025
+	Alt : 1.6 ± 0.16
+	CQ : 0.02 ± 0.001
+	Cost : 0.32 ± 0.047
+	Time : 11.97 ± 5.028
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.223313371273
+	lambda_ratio : 10
+	HSIC ratio : 0.0223313371273
+	:::::  Past into data table ::::::
+	0.13±0.025	0.09±0.025	0.02±0.001	1.6±0.16	0.32±0.047	11.97±5.028
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 15.5804820061 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.478
+	Alt vs Orig NMI : 0.026
+	Cost : 1.2645326806
+	CQ : 0.0774772091281
+	Altness : 6.47006952241
+
+	Run Hash : 78fbc417-233a-4724-8b19-166d21df9e87
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	:::::  Past into data table ::::::
+	0.478	0.478	0.077	6.47	1.265	15.58
+	0.478	1.265	15.58
+:::::::: ISM default RUN  at face ::::::::
+--- 4.93491697311 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.479
+	Alt vs Orig NMI : 0.025
+	Cost : 1.26574938497
+	CQ : 0.0774817226582
+	Altness : 6.47595723217
+
+	Run Hash : 2991678c-d69c-4769-a860-072211ac9a8e
+	:::::::::: Cut and Paste :::::::
+	NMI	Cost	Time
+	:::::  Past into data table ::::::
+	0.479	0.479	0.077	6.476	1.266	4.935
+	0.479	1.266	4.935
+:::::::: ISM default RUN  at face ::::::::
+--- 3.34840703011 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.479
+	Alt vs Orig NMI : 0.025
+	Cost : 1.26574938497
+	CQ : 0.0774817226582
+	Altness : 6.47595723217
+
+	Run Hash : 2ce3d3cc-6e64-4609-ba90-95306a7ad3f9
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	:::::  Past into data table ::::::
+	0.479	0.479	0.077	6.476	1.266	3.348
+	0.479	1.266	3.348
+:::::::: ISM default RUN  at face ::::::::
+--- 3.77326393127 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.479
+	Alt vs Orig NMI : 0.025
+	Cost : 1.26574938497
+	CQ : 0.0774817226582
+	Altness : 6.47595723217
+
+	Run Hash : 96c65393-932f-4298-9211-c1b7cb5726ff
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	:::::  Past into data table ::::::
+	0.479	0.479	0.077	6.476	1.266	3.773	0.479	1.266	3.773
+:::::::: ISM default RUN  at face ::::::::
+--- 3.2973690033 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.20741815603
+	lambda_ratio : 10
+	HSIC ratio : 0.020741815603
+	Alt vs Alt NMI : 0.479
+	Alt vs Orig NMI : 0.025
+	Cost : 1.26574938497
+	CQ : 0.0774817226582
+	Altness : 6.47595723217
+
+	Run Hash : 498ea58d-42c0-4a3f-b959-bc0373f5282c
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.479	0.479	0.077	0.025	1.266	3.297	0.479	1.266	3.297
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+:::::::::::::   Random Initialization of face , SM :::::::::::::
+	NMI : 0.08 ± 0.027
+	Alt V Alt NMI : 0.06 ± 0.01
+	Alt : 1.63 ± 0.285
+	CQ : 0.02 ± 0.001
+	Cost : 0.33 ± 0.057
+	Time : 10.88 ± 4.674
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.215742563616
+	lambda_ratio : 10
+	HSIC ratio : 0.0215742563616
+	:::::  Past into data table ::::::
+	0.12±0.027	0.08±0.027	0.02±0.001	0.06±0.01	0.33±0.057	10.88±4.674
+:::::::::::::   Random Initialization of face , DG :::::::::::::
+:::::::::::::   Random Initialization of face , DG :::::::::::::
+:::::::::::::   Pickle Initialization of face , DG , 0 :::::::::::::
+:::::::::::::   Pickle Initialization of face , DG , 0 :::::::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 1.70543599129 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.119452275578
+	lambda_ratio : 10
+	HSIC ratio : 0.0119452275578
+	Alt vs Alt NMI : 0.481
+	Alt vs Orig NMI : 0.025
+	Cost : 0.697232995132
+	CQ : 0.0775137375434
+	Altness : 6.48582648534
+
+	Run Hash : 737067b7-1e2d-499c-a847-b1a0fcc20821
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.481	0.481	0.078	0.025	0.697	1.705	0.481	0.697	1.705
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 4.36231899261 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.0483974819516
+	lambda_ratio : 10
+	HSIC ratio : 0.00483974819516
+	Alt vs Alt NMI : 0.244
+	Alt vs Orig NMI : 0.069
+	Cost : 0.150981241773
+	CQ : 0.0752561360849
+	Altness : 4.67456918697
+
+	Run Hash : bbdd8e11-777a-4b16-8f78-afaa38ad9e8d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.244	0.244	0.075	0.069	0.151	4.362	0.244	0.151	4.362
+:::::::: ISM default RUN  at face ::::::::
+--- 3.90719795227 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 1.05730578732
+	lambda_ratio : 10
+	HSIC ratio : 0.105730578732
+	Alt vs Alt NMI : 0.118
+	Alt vs Orig NMI : 0.277
+	Cost : -0.0145731356911
+	CQ : 0.0779977778514
+	Altness : 0.0599870377339
+	Lagrange Gradient : 0.155918205399
+
+	Run Hash : 3f2bdda2-dfd2-40e0-b374-bc94845ccd9a
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.118	0.118	0.078	0.277	-0.015	3.907	0.118	-0.015	3.907
+:::::::: ISM default RUN  at face ::::::::
+--- 3.82797002792 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 8.63328275464
+	sigma_ratio : 1.2
+	median of pairwise distance : 7.19440229553
+	lambda used : 1.05730578732
+	lambda_ratio : 10
+	HSIC ratio : 0.105730578732
+	Alt vs Alt NMI : 0.055
+	Alt vs Orig NMI : 0.364
+	Cost : -0.040868590756
+	CQ : 0.0543099688949
+	Altness : 0.0127128578128
+	Lagrange Gradient : 0.0345881867652
+
+	Run Hash : d0e6b032-e82c-4cfe-a0da-293642627b23
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.055	0.055	0.054	0.364	-0.041	3.828	0.055	-0.041	3.828
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 3.79381299019 seconds ---
+	q used : 8
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.1
+	lambda_ratio : 1
+	HSIC ratio : 0.105730578732
+	Alt vs Alt NMI : 0.027
+	Alt vs Orig NMI : 0.373
+	Cost : -0.076136078864
+	CQ : 0.0809255445851
+	Altness : 0.0478946572105
+	Lagrange Gradient : 0.0126997795332
+
+	Run Hash : 63840eda-58c2-42ca-b7b9-db7bd5065fcf
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.027	0.027	0.081	0.373	-0.076	3.794	0.027	-0.076	3.794
+:::::::: ISM default RUN  at face ::::::::
+--- 3.7461810112 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.1
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.026
+	Alt vs Orig NMI : 0.468
+	Cost : -0.0783958765455
+	CQ : 0.0788339805655
+	Altness : 0.00438104019996
+	Lagrange Gradient : 0.000704436358726
+
+	Run Hash : 45ed7e41-786c-42b8-b805-dccc3e91dc86
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.026	0.026	0.079	0.468	-0.078	3.746	0.026	-0.078	3.746
+:::::::: ISM default RUN  at face ::::::::
+--- 3.81682896614 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.1
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.026
+	Alt vs Orig NMI : 0.468
+	Cost : -0.0783958765455
+	CQ : 0.0788339805655
+	Altness : 0.00438104019996
+	Lagrange Gradient : 0.000704436358726
+
+	Run Hash : 70ba6624-f032-4e0e-89e6-c464bcd0be1d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.026	0.026	0.079	0.468	-0.078	3.817	0.026	-0.078	3.817
+:::::::: ISM default RUN  at face ::::::::
+--- 3.7456099987 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.01
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.032
+	Alt vs Orig NMI : 0.447
+	Cost : -0.0787364379552
+	CQ : 0.0788193587807
+	Altness : 0.00829208255116
+	Lagrange Gradient : 0.000751588384306
+
+	Run Hash : ad690d87-a587-43ca-bd74-c73fcdbc66a7
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.032	0.032	0.079	0.447	-0.079	3.746	0.032	-0.079	3.746
+:::::::: ISM default RUN  at face ::::::::
+--- 4.18837714195 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 1
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.02
+	Alt vs Orig NMI : 0.376
+	Cost : -0.0757301715244
+	CQ : 0.077389724804
+	Altness : 0.00165955327958
+	Lagrange Gradient : 0.00135282726193
+
+	Run Hash : b499bacb-1f5c-4ced-9e2a-ad8e022cfd91
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.02	0.02	0.077	0.376	-0.076	4.188	0.02	-0.076	4.188
+:::::::: ISM default RUN  at face ::::::::
+--- 4.56600785255 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.094
+	Alt vs Orig NMI : 0.221
+	Cost : 0.042854030212
+	CQ : 0.0755863598454
+	Altness : 0.0118440390057
+	Lagrange Gradient : 0.464761308354
+
+	Run Hash : 9f25cd80-3fd7-4abd-8661-9487a45d025e
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.094	0.094	0.076	0.221	0.043	4.566	0.094	0.043	4.566
+:::::::: ISM default RUN  at face ::::::::
+--- 3.85609292984 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.1
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.026
+	Alt vs Orig NMI : 0.468
+	Cost : -0.0783958765455
+	CQ : 0.0788339805655
+	Altness : 0.00438104019996
+	Lagrange Gradient : 0.000704436358726
+
+	Run Hash : 72a4d11a-7c4c-4dcd-b8e2-3b54b0883639
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.026	0.026	0.079	0.468	-0.078	3.856	0.026	-0.078	3.856
+:::::::: ISM default RUN  at face ::::::::
+--- 3.73800086975 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.01
+	lambda_ratio : 1
+	HSIC ratio : 0.199893563914
+	Alt vs Alt NMI : 0.032
+	Alt vs Orig NMI : 0.447
+	Cost : -0.0787364379552
+	CQ : 0.0788193587807
+	Altness : 0.00829208255116
+	Lagrange Gradient : 0.000751588384306
+
+	Run Hash : 1dbaa5a2-46d2-4e4f-81b8-eebad9dbc0c1
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.032	0.032	0.079	0.447	-0.079	3.738	0.032	-0.079	3.738
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 3.81863093376 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.01
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.032
+	Alt vs Orig NMI : 0.447
+	Cost : -0.0787364379552
+	CQ : 0.0788193587807
+	Altness : 0.00829208255116
+	Lagrange Gradient : 0.000751588384306
+
+	Run Hash : be8fdb9f-a242-4a42-bed5-e57e7fd97a34
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.032	0.032	0.079	0.447	-0.079	3.819	0.032	-0.079	3.819
+:::::::: ISM default RUN  at face ::::::::
+--- 3.79253292084 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.01
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.032
+	Alt vs Orig NMI : 0.447
+	Cost : -0.0787364379552
+	CQ : 0.0788193587807
+	Altness : 0.00829208255116
+	Lagrange Gradient : 0.000751588384306
+
+	Run Hash : 7333c94d-e601-4a32-b2ee-66cce2e443c0
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.032	0.032	0.079	0.447	-0.079	3.793	0.032	-0.079	3.793
+:::::::: ISM default RUN  at face ::::::::
+--- 3.86545109749 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.094
+	Alt vs Orig NMI : 0.22
+	Cost : 0.042854030212
+	CQ : 0.0755863598454
+	Altness : 0.0118440390057
+	Lagrange Gradient : 0.464761308354
+
+	Run Hash : e1644c24-7301-46cf-b45b-05e80149e118
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.094	0.094	0.076	0.22	0.043	3.865	0.094	0.043	3.865
+:::::::: ISM default RUN  at face ::::::::
+--- 16.3904008865 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.098
+	Alt vs Orig NMI : 0.298
+	Cost : 0.0411640289476
+	CQ : 0.0755671381733
+	Altness : 0.0116731167121
+	Lagrange Gradient : 0.455987638735
+
+	Run Hash : de6e2663-3921-47ea-a862-72694976693d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.098	0.098	0.076	0.298	0.041	16.39	0.098	0.041	16.39
+:::::::: ISM default RUN  at face ::::::::
+--- 14.0581121445 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.099
+	Alt vs Orig NMI : 0.296
+	Cost : 0.0411640289476
+	CQ : 0.0755671381733
+	Altness : 0.0116731167121
+	Lagrange Gradient : 0.455987638735
+
+	Run Hash : ef1592b2-fb28-4b1d-ab8c-bdaceaf6813e
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.099	0.099	0.076	0.296	0.041	14.058	0.099	0.041	14.058
+:::::::: ISM default RUN  at face ::::::::
+--- 9.06796002388 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.1
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.016
+	Alt vs Orig NMI : 0.476
+	Cost : -0.0783733358956
+	CQ : 0.0788289032911
+	Altness : 0.00455567395556
+	Lagrange Gradient : 0.000710759392611
+
+	Run Hash : 16518c21-e4cc-4158-83af-93fb0c6b5aa5
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.016	0.016	0.079	0.476	-0.078	9.068	0.016	-0.078	9.068
+:::::::: ISM default RUN  at face ::::::::
+--- 1.25188183784 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 71.9440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.5
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.018
+	Alt vs Orig NMI : 0.418
+	Cost : -0.000772545504053
+	CQ : 0.000772837267898
+	Altness : 5.83527690568e-07
+	Lagrange Gradient : 4.02452521676e-07
+
+	Run Hash : 7ab2fbe2-0132-48b8-853d-d862bfb42136
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.018	0.018	0.001	0.418	-0.001	1.252	0.018	-0.001	1.252
+:::::::: ISM default RUN  at face ::::::::
+--- 13.6495609283 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.59720114777
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.5
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.077
+	Alt vs Orig NMI : 0.211
+	Cost : -0.736672015792
+	CQ : 1.22657062034
+	Altness : 0.979797209097
+	Lagrange Gradient : 0.218184287399
+
+	Run Hash : 0fbd24bb-161e-4bc2-b0e4-fee324308752
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.077	0.077	1.227	0.211	-0.737	13.65	0.077	-0.737	13.65
+:::::::: ISM default RUN  at face ::::::::
+--- 14.0095930099 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 0.719440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.5
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.058
+	Alt vs Orig NMI : 0.109
+	Cost : 2.85786290335
+	CQ : 3.95327451009
+	Altness : 13.6222748269
+	Lagrange Gradient : 15.4687621577
+
+	Run Hash : 9b16d88a-1ccb-442a-8217-e00b00e126e5
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.058	0.058	3.953	0.109	2.858	14.01	0.058	2.858	14.01
+:::::::: ISM default RUN  at face ::::::::
+--- 11.0001351833 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 0.5
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.012
+	Alt vs Orig NMI : 0.408
+	Cost : -0.0768706446023
+	CQ : 0.0783350528705
+	Altness : 0.00292881653646
+	Lagrange Gradient : 0.00106023801587
+
+	Run Hash : b6e9268f-8f73-4e11-92c4-4e737fd7c389
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.012	0.012	0.078	0.408	-0.077	11.0	0.012	-0.077	11.0
+:::::::: ISM default RUN  at face ::::::::
+--- 8.96531605721 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 100
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.108
+	Alt vs Orig NMI : 0.227
+	Cost : 1.08811314985
+	CQ : 0.0754832796352
+	Altness : 0.0116359642949
+	Lagrange Gradient : 5.02131505909
+
+	Run Hash : 98c9f4d0-4100-49f5-a917-f7da8f657f29
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.108	0.108	0.075	0.227	1.088	8.965	0.108	1.088	8.965
+:::::::: ISM default RUN  at face ::::::::
+--- 6.30095601082 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 200
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.107
+	Alt vs Orig NMI : 0.212
+	Cost : 2.25284391762
+	CQ : 0.0754761611755
+	Altness : 0.011641600394
+	Lagrange Gradient : 10.0942502237
+
+	Run Hash : e76cf9f5-85ae-4000-8776-171195cee906
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.107	0.107	0.075	0.212	2.253	6.301	0.107	2.253	6.301
+:::::::: ISM default RUN  at face ::::::::
+--- 3.51292705536 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 7.19440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 1000
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.103
+	Alt vs Orig NMI : 0.22
+	Cost : 11.5681702643
+	CQ : 0.075470527979
+	Altness : 0.0116436407923
+	Lagrange Gradient : 50.6728017746
+
+	Run Hash : 630596e6-05e8-4c8a-9a5d-9f7633058c49
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.103	0.103	0.075	0.22	11.568	3.513	0.103	11.568	3.513
+:::::::: ISM default RUN  at face ::::::::
+--- 3.24087285995 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 14.3888045911
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 100
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.18
+	Alt vs Orig NMI : 0.08
+	Cost : 0.386182755571
+	CQ : 0.0186042256732
+	Altness : 0.00404786981244
+	Lagrange Gradient : 1.40551779028
+
+	Run Hash : fd269661-a73d-4327-aa67-69d264f31376
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.18	0.18	0.019	0.08	0.386	3.241	0.18	0.386	3.241
+:::::::: ISM default RUN  at face ::::::::
+--- 11.9297630787 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 71.9440229553
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 100
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.05
+	Alt vs Orig NMI : 0.235
+	Cost : -0.000758577747996
+	CQ : 0.000772701575324
+	Altness : 1.41238274018e-07
+	Lagrange Gradient : 1.97107652409e-05
+
+	Run Hash : 2f6acdcf-d1a1-4a0d-9927-08787820fc2b
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.05	0.05	0.001	0.235	-0.001	11.93	0.05	-0.001	11.93
+:::::::: ISM default RUN  at face ::::::::
+--- 13.9853169918 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 28.7776091821
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 100
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.179
+	Alt vs Orig NMI : 0.078
+	Cost : 0.0221299930368
+	CQ : 0.00477771807949
+	Altness : 0.000269077111164
+	Lagrange Gradient : 0.101023855472
+
+	Run Hash : 8e55c4e6-7af9-4477-938e-239737c55fea
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.179	0.179	0.005	0.078	0.022	13.985	0.179	0.022	13.985
+:::::::: ISM default RUN  at face ::::::::
+--- 10.6328909397 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 100
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.192
+	Alt vs Orig NMI : 0.076
+	Cost : 0.0750843140182
+	CQ : 0.00842763710868
+	Altness : 0.000835119511269
+	Lagrange Gradient : 0.309219064622
+
+	Run Hash : 604b15e3-c68a-404b-aaa2-6f36e553384d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.192	0.192	0.008	0.076	0.075	10.633	0.192	0.075	10.633
+:::::::: ISM default RUN  at face ::::::::
+--- 12.2700951099 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	Alt vs Alt NMI : 0.044
+	Alt vs Orig NMI : 0.253
+	Cost : -0.00842516413849
+	CQ : 0.00857539983125
+	Altness : 1.50235692763e-05
+	Lagrange Gradient : 0.000229349301461
+
+	Run Hash : b20667a5-e06c-427b-924a-41d03c2f9fea
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.044	0.044	0.009	0.253	-0.008	12.27	0.044	-0.008	12.27
+:::::::::::::   Pickle Initialization of face , ISM , 0 :::::::::::::
+	NMI : 0.24 ± 0.041
+	Alt V Alt NMI : 0.14 ± 0.048
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.001
+	Time : 12.51 ± 1.25
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.29	0.24±0.041	0.01±0.0	0.14±0.048	-0.01±0.001	12.51±1.25
+:::::::::::::   Pickle Initialization of face , ISM , 0 :::::::::::::
+	NMI : 0.12 ± 0.0
+	Alt V Alt NMI : 0.21 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 10.48 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.12	0.12±0.0	0.01±0.0	0.21±0.0	-0.01±0.0	10.48±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 1 :::::::::::::
+	NMI : 0.09 ± 0.0
+	Alt V Alt NMI : 0.19 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 14.9 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.09	0.09±0.0	0.01±0.0	0.19±0.0	-0.01±0.0	14.9±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 2 :::::::::::::
+	NMI : 0.33 ± 0.0
+	Alt V Alt NMI : 0.1 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 17.42 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.33	0.33±0.0	0.01±0.0	0.1±0.0	-0.01±0.0	17.42±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.34 ± 0.0
+	Alt V Alt NMI : 0.12 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 34.73 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.34	0.34±0.0	0.01±0.0	0.12±0.0	-0.01±0.0	34.73±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 4 :::::::::::::
+	NMI : 0.18 ± 0.0
+	Alt V Alt NMI : 0.16 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 47.66 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.18	0.18±0.0	0.01±0.0	0.16±0.0	-0.01±0.0	47.66±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 5 :::::::::::::
+	NMI : 0.1 ± 0.0
+	Alt V Alt NMI : 0.21 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 49.78 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.1	0.1±0.0	0.01±0.0	0.21±0.0	-0.01±0.0	49.78±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 6 :::::::::::::
+	NMI : 0.31 ± 0.0
+	Alt V Alt NMI : 0.14 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 46.23 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.31	0.31±0.0	0.01±0.0	0.14±0.0	-0.01±0.0	46.23±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 8 :::::::::::::
+	NMI : 0.22 ± 0.0
+	Alt V Alt NMI : 0.19 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 42.4 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.22	0.22±0.0	0.01±0.0	0.19±0.0	-0.01±0.0	42.4±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 7 :::::::::::::
+	NMI : 0.13 ± 0.0
+	Alt V Alt NMI : 0.2 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 49.47 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.13	0.13±0.0	0.01±0.0	0.2±0.0	-0.01±0.0	49.47±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 9 :::::::::::::
+	NMI : 0.14 ± 0.0
+	Alt V Alt NMI : 0.23 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 41.21 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.14	0.14±0.0	0.01±0.0	0.23±0.0	-0.01±0.0	41.21±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.02 ± 0.0
+	Alt V Alt NMI : 0.38 ± 0.0
+	Alt : 0.15 ± 0.0
+	CQ : 0.33 ± 0.0
+	Cost : 1.16 ± 0.0
+	Time : 15.46 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.59720114777
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.02	0.02±0.0	0.33±0.0	0.38±0.0	1.16±0.0	15.46±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.07 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 13.07 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.07	0.07±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	13.07±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.04 ± 0.0
+	Alt V Alt NMI : 0.33 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 11.94 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.04	0.04±0.0	0.01±0.0	0.33±0.0	-0.01±0.0	11.94±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.31 ± 0.0
+	Alt V Alt NMI : 0.14 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 10.23 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.31	0.31±0.0	0.01±0.0	0.14±0.0	-0.01±0.0	10.23±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.15 ± 0.0
+	Alt V Alt NMI : 0.19 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.0 ± 0.0
+	Cost : -0.0 ± 0.0
+	Time : 11.66 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 28.7776091821
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.15	0.15±0.0	0.0±0.0	0.19±0.0	-0.0±0.0	11.66±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.03 ± 0.0
+	Alt V Alt NMI : 0.4 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.02 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 16.18 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 14.3888045911
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.03	0.03±0.0	0.02±0.0	0.4±0.0	-0.01±0.0	16.18±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.2 ± 0.0
+	Alt V Alt NMI : 0.15 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 16.62 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.2	0.2±0.0	0.01±0.0	0.15±0.0	-0.01±0.0	16.62±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.02 ± 0.0
+	Alt V Alt NMI : 0.4 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 8.44 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.02	0.02±0.0	0.01±0.0	0.4±0.0	-0.01±0.0	8.44±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.14 ± 0.0
+	Alt V Alt NMI : 0.18 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 21.31 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.14	0.14±0.0	0.01±0.0	0.18±0.0	-0.01±0.0	21.31±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.24 ± 0.0
+	Alt V Alt NMI : 0.11 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 21.82 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.24	0.24±0.0	0.01±0.0	0.11±0.0	-0.01±0.0	21.82±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.21 ± 0.0
+	Alt V Alt NMI : 0.16 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 24.46 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.21	0.21±0.0	0.01±0.0	0.16±0.0	-0.01±0.0	24.46±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.24 ± 0.0
+	Alt V Alt NMI : 0.1 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 26.45 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.24	0.24±0.0	0.01±0.0	0.1±0.0	-0.01±0.0	26.45±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.04 ± 0.0
+	Alt V Alt NMI : 0.27 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 29.03 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.04	0.04±0.0	0.01±0.0	0.27±0.0	-0.01±0.0	29.03±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.28 ± 0.0
+	Alt V Alt NMI : 0.09 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 24.84 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.28	0.28±0.0	0.01±0.0	0.09±0.0	-0.01±0.0	24.84±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.05 ± 0.0
+	Alt V Alt NMI : 0.23 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 19.45 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.05	0.05±0.0	0.01±0.0	0.23±0.0	-0.01±0.0	19.45±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.05 ± 0.0
+	Alt V Alt NMI : 0.24 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 21.86 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.05	0.05±0.0	0.01±0.0	0.24±0.0	-0.01±0.0	21.86±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.05 ± 0.0
+	Alt V Alt NMI : 0.23 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 20.51 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.05	0.05±0.0	0.01±0.0	0.23±0.0	-0.01±0.0	20.51±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 0 :::::::::::::
+	NMI : 0.05 ± 0.0
+	Alt V Alt NMI : 0.24 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 18.78 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.05	0.05±0.0	0.01±0.0	0.24±0.0	-0.01±0.0	18.78±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 1 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 26.69 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	26.69±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 2 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 32.95 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	32.95±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 3 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 34.42 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	34.42±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 4 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 45.32 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	45.32±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 5 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 48.93 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	48.93±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 6 :::::::::::::
+	NMI : 0.05 ± 0.0
+	Alt V Alt NMI : 0.23 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 49.29 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.05	0.05±0.0	0.01±0.0	0.23±0.0	-0.01±0.0	49.29±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 7 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 47.39 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	47.39±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 8 :::::::::::::
+	NMI : 0.06 ± 0.0
+	Alt V Alt NMI : 0.25 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 43.76 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.06	0.06±0.0	0.01±0.0	0.25±0.0	-0.01±0.0	43.76±0.0
+:::::::::::::   Pickle Initialization of face , ISM , 9 :::::::::::::
+	NMI : 0.05 ± 0.0
+	Alt V Alt NMI : 0.23 ± 0.0
+	Alt : 0.0 ± 0.0
+	CQ : 0.01 ± 0.0
+	Cost : -0.01 ± 0.0
+	Time : 38.33 ± 0.0
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 21.5832068866
+	sigma_ratio : 1
+	median of pairwise distance : 7.19440229553
+	lambda used : 10
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.05	0.05±0.0	0.01±0.0	0.23±0.0	-0.01±0.0	38.33±0.0
+:::::::: ISM default RUN  at face ::::::::
+--- 14.6216650009 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.224
+	Alt vs Orig NMI : 0.097
+	Cost : -0.12669402722
+	CQ : 1.11537963837
+	Altness : 0.98868561115
+	Lagrange Gradient : 0.516130428568
+
+	Run Hash : a0ef04e0-9865-4d91-9a3f-86dcc1c46f62
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.224	0.224	1.115	0.097	-0.127	14.622	0.224	-0.127	14.622
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 15.5664448738 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.05
+	Alt vs Orig NMI : 0.325
+	Cost : -0.0757339799567
+	CQ : 0.0773901962599
+	Altness : 0.00165621630324
+	Lagrange Gradient : 0.00134782780167
+
+	Run Hash : ffea0adb-d2c6-43db-abda-14e89da44752
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.05	0.05	0.077	0.325	-0.076	15.566	0.05	-0.076	15.566
+--- 9.23944187164 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.053
+	Alt vs Orig NMI : 0.329
+	Cost : -0.0191461185834
+	CQ : 0.019364742261
+	Altness : 0.000218623677664
+	Lagrange Gradient : 0.000264265356943
+
+	Run Hash : 88d8bde6-a352-413c-bf85-e8de9d4700ea
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.053	0.053	0.019	0.329	-0.019	9.239	0.053	-0.019	9.239
+--- 6.87910795212 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.009
+	Alt vs Orig NMI : 0.406
+	Cost : -0.00853464218862
+	CQ : 0.00859613460251
+	Altness : 6.14924138886e-05
+	Lagrange Gradient : 7.00200401697e-05
+
+	Run Hash : a3335acc-bfaa-4702-8df3-6c8a2311fa33
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.009	0.009	0.009	0.406	-0.009	6.879	0.009	-0.009	6.879
+:::::::: ISM default RUN  at face ::::::::
+--- 14.0953371525 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.054
+	Alt vs Orig NMI : 0.294
+	Cost : -0.117227921785
+	CQ : 0.121307967191
+	Altness : 0.00408004540687
+	Lagrange Gradient : 0.00294156960479
+
+	Run Hash : 4f265122-d43c-4feb-8f42-622bc198178e
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.054	0.054	0.121	0.294	-0.117	14.095	0.054	-0.117	14.095
+:::::::: ISM default RUN  at face ::::::::
+--- 11.848886013 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.179
+	Alt vs Orig NMI : 0.116
+	Cost : 4.15538960952
+	CQ : 1.15524742855
+	Altness : 1.06212740761
+	Lagrange Gradient : 3.18886449535
+
+	Run Hash : f01bc3a1-ec01-40c0-a812-f0bb9b11d6c7
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.179	0.179	1.155	0.116	4.155	11.849	0.179	4.155	11.849
+:::::::: ISM default RUN  at face ::::::::
+--- 13.9169640541 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.19440229553
+	Alt vs Alt NMI : 0.224
+	Alt vs Orig NMI : 0.1
+	Cost : -0.12669402722
+	CQ : 1.11537963837
+	Altness : 0.98868561115
+	Lagrange Gradient : 0.516130428568
+
+	Run Hash : fdd3a357-98cd-41bf-af9b-3c9db2cbe1e0
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.224	0.224	1.115	0.1	-0.127	13.917	0.224	-0.127	13.917
+:::::::: ISM default RUN  at face ::::::::
+--- 14.1379270554 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.1943986362
+	Alt vs Alt NMI : 0.224
+	Alt vs Orig NMI : 0.097
+	Cost : -0.126693892176
+	CQ : 1.11538009801
+	Altness : 0.988686205836
+	Lagrange Gradient : 0.516132481711
+
+	Run Hash : ca42d1af-de58-4459-81f9-45fdf67734fd
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.224	0.224	1.115	0.097	-0.127	14.138	0.224	-0.127	14.138
+:::::::: ISM default RUN  at face ::::::::
+--- 15.6963601112 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	median of pairwise distance : 7.1943986362
+	Alt vs Alt NMI : 0.224
+	Alt vs Orig NMI : 0.097
+	Cost : -0.126693892176
+	CQ : 1.11538009801
+	Altness : 0.988686205836
+	Lagrange Gradient : 0.516132481711
+
+	Run Hash : 2088b465-eb7e-450b-b297-75d3512aa236
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.224	0.224	1.115	0.097	-0.127	15.696	0.224	-0.127	15.696
+:::::::: ISM default RUN  at face ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 15.2195470333 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 6.3429805853
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.298
+	Alt vs Orig NMI : 0.009
+	Cost : 0.0564862463859
+	CQ : 0.0960829312478
+	Altness : 0.152569177634
+	Lagrange Gradient : 0.496101976042
+
+	Run Hash : 28b39cc9-8308-47ac-9cbd-34e75bc81716
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.298	0.298	0.096	0.009	0.056	15.22	0.298	0.056	15.22
+:::::::: ISM default RUN  at face ::::::::
+--- 16.0795419216 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 6.3429805853
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.298
+	Alt vs Orig NMI : 0.009
+	Cost : 0.0564862463859
+	CQ : 0.0960829312478
+	Altness : 0.152569177634
+	Lagrange Gradient : 0.496101976042
+
+	Run Hash : 7b9d81aa-bc2a-42bf-83ce-017b85226968
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.298	0.298	0.096	0.009	0.056	16.08	0.298	0.056	16.08
+:::::::: ISM default RUN  at face ::::::::
+--- 15.2803518772 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 6.3429805853
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.298
+	Alt vs Orig NMI : 0.009
+	Cost : 0.0564862463859
+	CQ : 0.0960829312478
+	Altness : 0.152569177634
+	Lagrange Gradient : 0.496101976042
+
+	Run Hash : 02a8942e-8416-4497-bb50-8a75d1e71138
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.298	0.298	0.096	0.009	0.056	15.28	0.298	0.056	15.28
+:::::::: ISM default RUN  at face ::::::::
+--- 15.5114309788 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 6.3429805853
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.299
+	Alt vs Orig NMI : 0.009
+	Cost : 0.0564862463859
+	CQ : 0.0960829312478
+	Altness : 0.152569177634
+	Lagrange Gradient : 0.496101976042
+
+	Run Hash : a57925e6-5848-43ac-bbdb-e343ad4011a3
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.299	0.299	0.096	0.009	0.056	15.511	0.299	0.056	15.511
+:::::::: ISM default RUN  at face ::::::::
+--- 14.9783220291 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 6.3429805853
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.298
+	Alt vs Orig NMI : 0.009
+	Cost : 0.0564862463859
+	CQ : 0.0960829312478
+	Altness : 0.152569177634
+	Lagrange Gradient : 0.496101976042
+
+	Run Hash : d3435179-103d-402f-9455-a25a4a6af1d0
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.298	0.298	0.096	0.009	0.056	14.978	0.298	0.056	14.978
+:::::::: ISM default RUN  at face ::::::::
+--- 15.3357200623 seconds ---
+	q used : 4
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.358
+	Alt vs Orig NMI : 0.007
+	Cost : 0.896267983573
+	CQ : 0.359709550868
+	Altness : 1.25597753444
+	Lagrange Gradient : 4.66582764782
+
+	Run Hash : 2743a788-1727-4297-b40d-3f2c8dfb7e07
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.358	0.358	0.36	0.007	0.896	15.336	0.358	0.896	15.336
+:::::::: ISM default RUN  at face ::::::::
+--- 1.68629789352 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.56
+	Alt vs Orig NMI : 0.005
+	Cost : 59.3606565809
+	CQ : 0.608202309744
+	Altness : 59.9688588907
+	Lagrange Gradient : 42.1001788337
+
+	Run Hash : 3b15cb27-b70a-4753-9d28-ce9df0013896
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.56	0.56	0.608	0.005	59.361	1.686	0.56	59.361	1.686
+:::::::: ISM default RUN  at face ::::::::
+--- 2.69786214828 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 0.63429805853
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.277
+	Alt vs Orig NMI : 0.035
+	Cost : 564.436024163
+	CQ : 3.99999996497
+	Altness : 568.436024128
+	Lagrange Gradient : 12.5497685109
+
+	Run Hash : 97a59302-18c5-4647-b894-309634a49b18
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.277	0.277	4.0	0.035	564.436	2.698	0.277	564.436	2.698
+:::::::: ISM default RUN  at face ::::::::
+--- 1.4682290554 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 2.53719223412
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.53
+	Alt vs Orig NMI : 0.009
+	Cost : 120.430198619
+	CQ : 1.18967132196
+	Altness : 121.619869941
+	Lagrange Gradient : 60.725461684
+
+	Run Hash : f08e6f77-dba2-4eda-8eda-91efcd9cc4a5
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.53	0.53	1.19	0.009	120.43	1.468	0.53	120.43	1.468
+:::::::: ISM default RUN  at face ::::::::
+--- 1.48145508766 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.563
+	Alt vs Orig NMI : 0.004
+	Cost : 59.5533546462
+	CQ : 0.608202309744
+	Altness : 60.161556956
+	Lagrange Gradient : 42.326064105
+
+	Run Hash : 1038c242-48df-4fdf-8239-c46915557cbf
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.563	0.563	0.608	0.004	59.553	1.481	0.563	59.553	1.481
+:::::::: ISM default RUN  at face ::::::::
+--- 1.66358709335 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.80578835118
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.561
+	Alt vs Orig NMI : 0.004
+	Cost : 35.828333495
+	CQ : 0.370346827753
+	Altness : 36.1986803227
+	Lagrange Gradient : 31.1104438847
+
+	Run Hash : 792f360e-5cf9-4360-b932-1156376a43e6
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.561	0.561	0.37	0.004	35.828	1.664	0.561	35.828	1.664
+:::::::: ISM default RUN  at face ::::::::
+--- 1.4388449192 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 4.44008640971
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.554
+	Alt vs Orig NMI : 0.005
+	Cost : 23.8327098658
+	CQ : 0.251315606675
+	Altness : 24.0840254725
+	Lagrange Gradient : 23.5665351813
+
+	Run Hash : e91bb3ba-8b35-4ab3-a3af-b6fbbd0b071e
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.554	0.554	0.251	0.005	23.833	1.439	0.554	23.833	1.439
+:::::::: ISM default RUN  at face ::::::::
+--- 1.51708602905 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 4.44008640971
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.551
+	Alt vs Orig NMI : 0.005
+	Cost : 23.7706396651
+	CQ : 0.251315606675
+	Altness : 24.0219552717
+	Lagrange Gradient : 23.4884830499
+
+	Run Hash : e9267759-a20c-45c6-a9de-16cdebd9bbaa
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.551	0.551	0.251	0.005	23.771	1.517	0.551	23.771	1.517
+:::::::: ISM default RUN  at face ::::::::
+--- 1.50596904755 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 4.44008640971
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.551
+	Alt vs Orig NMI : 0.005
+	Cost : 23.7706396651
+	CQ : 0.251315606675
+	Altness : 24.0219552717
+	Lagrange Gradient : 23.4884830499
+
+	Run Hash : 369a6eec-c43e-40d9-9020-b6468b1dff4e
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.551	0.551	0.251	0.005	23.771	1.506	0.551	23.771	1.506
+:::::::: ISM default RUN  at face ::::::::
+--- 1.35723400116 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 4.44008640971
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.551
+	Alt vs Orig NMI : 0.005
+	Cost : 23.7706396651
+	CQ : 0.251315606675
+	Altness : 24.0219552717
+	Lagrange Gradient : 23.4884830499
+
+	Run Hash : ca1e30d7-0c65-4e29-a5f5-c8005936bade
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.551	0.551	0.251	0.005	23.771	1.357	0.551	23.771	1.357
+:::::::: ISM default RUN  at face ::::::::
+--- 1.44241905212 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.56
+	Alt vs Orig NMI : 0.005
+	Cost : 59.3606565809
+	CQ : 0.608202309744
+	Altness : 59.9688588907
+	Lagrange Gradient : 42.1001788337
+
+	Run Hash : 1a860329-f5ce-400e-a595-d90b3f27c0b4
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.56	0.56	0.608	0.005	59.361	1.442	0.56	59.361	1.442
+:::::::: ISM default RUN  at face ::::::::
+--- 1.37955713272 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 77.6101288011
+	CQ : 0.626707810545
+	Altness : 78.2368366117
+	Lagrange Gradient : 41.1738158559
+
+	Run Hash : 751529e8-ae85-4745-8744-2239afcc67c0
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	77.61	1.38	0.539	77.61	1.38
+:::::::: ISM default RUN  at face ::::::::
+--- 1.37460184097 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 10
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 781.712203667
+	CQ : 0.626693674519
+	Altness : 78.2338897342
+	Lagrange Gradient : 411.437234025
+
+	Run Hash : d12a8b64-4b54-42a9-8436-528e8eecf0b8
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	781.712	1.375	0.539	781.712	1.375
+:::::::: ISM default RUN  at face ::::::::
+--- 1.09949111938 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 10
+	Alt vs Alt NMI : 0.563
+	Alt vs Orig NMI : 0.004
+	Cost : 600.917546175
+	CQ : 0.608113832479
+	Altness : 60.1525660007
+	Lagrange Gradient : 418.538708621
+
+	Run Hash : 55e2faca-db02-4abd-8ec0-ff32cdaaf543
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.563	0.563	0.608	0.004	600.918	1.099	0.563	600.918	1.099
+:::::::: ISM default RUN  at face ::::::::
+--- 1.30169701576 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 10
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 781.712203667
+	CQ : 0.626693674519
+	Altness : 78.2338897342
+	Lagrange Gradient : 411.437234025
+
+	Run Hash : acfbc692-5389-4675-b39f-71d751ff9feb
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	781.712	1.302	0.539	781.712	1.302
+:::::::: ISM default RUN  at face ::::::::
+--- 1.35314798355 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 77.6101288011
+	CQ : 0.626707810545
+	Altness : 78.2368366117
+	Lagrange Gradient : 41.1738158559
+
+	Run Hash : 49a7e973-5efe-4691-b600-0d73dfac1b1c
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	77.61	1.353	0.539	77.61	1.353
+:::::::: ISM default RUN  at face ::::::::
+--- 1.33418178558 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.80578835118
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.546
+	Alt vs Orig NMI : 0.006
+	Cost : 47.5597749313
+	CQ : 0.378229992323
+	Altness : 47.9380049236
+	Lagrange Gradient : 31.5705006943
+
+	Run Hash : a7121a5f-6914-4410-9fb0-d876005d3057
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.546	0.546	0.378	0.006	47.56	1.334	0.546	47.56	1.334
+:::::::: ISM default RUN  at face ::::::::
+--- 1.24289488792 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 4.44008640971
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.53
+	Alt vs Orig NMI : 0.007
+	Cost : 32.0682504946
+	CQ : 0.255242904754
+	Altness : 32.3234933993
+	Lagrange Gradient : 24.1044846232
+
+	Run Hash : 314d67de-87c6-4b3d-99d8-b8c2b4e7fa6f
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.53	0.53	0.255	0.007	32.068	1.243	0.53	32.068	1.243
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 4.08023619652 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 77.6352371258
+	CQ : 0.626636950234
+	Altness : 78.2618740761
+	Lagrange Gradient : 44.4666913369
+
+	Run Hash : 810d547b-1b5f-4e58-9b08-1433443d2f72
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	77.635	4.08	0.539	77.635	4.08
+:::::::: ISM default RUN  at face ::::::::
+--- 1.33232402802 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 77.6101288011
+	CQ : 0.626707810545
+	Altness : 78.2368366117
+	Lagrange Gradient : 41.1738158559
+
+	Run Hash : 20fc708d-9cfc-4db3-98df-edd5ac359087
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	77.61	1.332	0.539	77.61	1.332
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 4.22267913818 seconds ---
+	q used : 19
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.539
+	Alt vs Orig NMI : 0.01
+	Cost : 77.6352371258
+	CQ : 0.626636950234
+	Altness : 78.2618740761
+	Lagrange Gradient : 44.4666913369
+
+	Run Hash : d88ef261-d121-4159-a676-dadc7291ca36
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.539	0.539	0.627	0.01	77.635	4.223	0.539	77.635	4.223
+:::::::: ISM default RUN  at face ::::::::
+--- 1.64976286888 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.567
+	Alt vs Orig NMI : 0.004
+	Cost : 59.7422252499
+	CQ : 0.608202309744
+	Altness : 60.3504275596
+	Lagrange Gradient : 42.5809778691
+
+	Run Hash : 7acec574-f05b-436e-9f8d-099121f9f31f
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.567	0.567	0.608	0.004	59.742	1.65	0.567	59.742	1.65
+:::::::: RUN  with W0 at face using SM ::::::::
+:::::::: ISM default RUN  at face ::::::::
+--- 1.38147997856 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.56
+	Alt vs Orig NMI : 0.005
+	Cost : 59.3606565809
+	CQ : 0.608202309744
+	Altness : 59.9688588907
+	Lagrange Gradient : 42.1001788337
+
+	Run Hash : 8868b4fb-6247-4a62-a4cc-fa2e6208f4ce
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.56	0.56	0.608	0.005	59.361	1.381	0.56	59.361	1.381
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 5.33292388916 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.563
+	Alt vs Orig NMI : 0.004
+	Cost : 59.5529553142
+	CQ : 0.608191403674
+	Altness : 60.1611467179
+	Lagrange Gradient : 43.5886450669
+
+	Run Hash : 2ff59b3e-3434-4970-914d-907daab32850
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.563	0.563	0.608	0.004	59.553	5.333	0.563	59.553	5.333
+:::::::::::::   Pickle Initialization of face , SM , 0 :::::::::::::
+	Alt V Alt : 0.56 ± 0.002
+	Alt V Orig NMI : 0.0 ± 0.001
+	Alt : 60.11 ± 0.142
+	CQ : 0.61 ± 0.0
+	Cost : 59.5 ± 0.142
+	Time : 9.53 ± 2.705
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.57	0.56±0.002	0.61±0.0	0.0±0.001	59.5±0.142	9.53±2.705
+:::::::::::::   Pickle Initialization of face , SM , 0 :::::::::::::
+	Alt V Alt : 0.56 ± 0.003
+	Alt V Orig NMI : 0.0 ± 0.001
+	Alt : 60.27 ± 0.175
+	CQ : 0.61 ± 0.0
+	Cost : 59.67 ± 0.175
+	Time : 10.01 ± 2.975
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.57	0.56±0.003	0.61±0.0	0.0±0.001	59.67±0.175	10.01±2.975
+:::::::: ISM default RUN  at face ::::::::
+--- 2.85570502281 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.567
+	Alt vs Orig NMI : 0.003
+	Cost : 59.8374353786
+	CQ : 0.608202309744
+	Altness : 60.4456376884
+	Lagrange Gradient : 42.7691531398
+
+	Run Hash : 0d015394-6746-4fa7-8fc0-3ed5f32a8d40
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.567	0.567	0.608	0.003	59.837	2.856	0.567	59.837	2.856
+:::::::::::::   Pickle Initialization of face , ISM , 0 :::::::::::::
+	Alt V Alt : 0.56 ± 0.003
+	Alt V Orig NMI : 0.0 ± 0.001
+	Alt : 60.25 ± 0.158
+	CQ : 0.61 ± 0.0
+	Cost : 59.64 ± 0.158
+	Time : 1.31 ± 0.064
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.57	0.56±0.003	0.61±0.0	0.0±0.001	59.64±0.158	1.31±0.064
+:::::::::::::   Pickle Initialization of face , DG , 6 :::::::::::::
+	Alt V Alt : 0.43 ± 0.0
+	Alt V Orig NMI : 0.02 ± 0.0
+	Alt : 53.86 ± 0.0
+	CQ : 0.56 ± 0.0
+	Cost : 53.29 ± 0.0
+	Time : 159152.58 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.43	0.43±0.0	0.56±0.0	0.02±0.0	53.29±0.0	159152.58±0.0
+:::::::::::::   Pickle Initialization of face , DG , 3 :::::::::::::
+	Alt V Alt : 0.52 ± 0.0
+	Alt V Orig NMI : 0.0 ± 0.0
+	Alt : 60.0 ± 0.0
+	CQ : 0.59 ± 0.0
+	Cost : 59.42 ± 0.0
+	Time : 162372.81 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.52	0.52±0.0	0.59±0.0	0.0±0.0	59.42±0.0	162372.81±0.0
+:::::::::::::   Pickle Initialization of face , DG , 4 :::::::::::::
+	Alt V Alt : 0.45 ± 0.0
+	Alt V Orig NMI : 0.0 ± 0.0
+	Alt : 54.32 ± 0.0
+	CQ : 0.57 ± 0.0
+	Cost : 53.75 ± 0.0
+	Time : 163811.53 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.45	0.45±0.0	0.57±0.0	0.0±0.0	53.75±0.0	163811.53±0.0
+:::::::::::::   Pickle Initialization of face , DG , 9 :::::::::::::
+	Alt V Alt : 0.41 ± 0.0
+	Alt V Orig NMI : 0.04 ± 0.0
+	Alt : 50.62 ± 0.0
+	CQ : 0.56 ± 0.0
+	Cost : 50.05 ± 0.0
+	Time : 164854.76 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.41	0.41±0.0	0.56±0.0	0.04±0.0	50.05±0.0	164854.76±0.0
+:::::::::::::   Pickle Initialization of face , DG , 2 :::::::::::::
+	Alt V Alt : 0.41 ± 0.0
+	Alt V Orig NMI : 0.04 ± 0.0
+	Alt : 53.48 ± 0.0
+	CQ : 0.54 ± 0.0
+	Cost : 52.94 ± 0.0
+	Time : 165151.19 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.41	0.41±0.0	0.54±0.0	0.04±0.0	52.94±0.0	165151.19±0.0
+:::::::::::::   Pickle Initialization of face , DG , 0 :::::::::::::
+	Alt V Alt : 0.49 ± 0.0
+	Alt V Orig NMI : 0.03 ± 0.0
+	Alt : 54.6 ± 0.0
+	CQ : 0.54 ± 0.0
+	Cost : 54.06 ± 0.0
+	Time : 165237.64 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.49	0.49±0.0	0.54±0.0	0.03±0.0	54.06±0.0	165237.64±0.0
+:::::::::::::   Pickle Initialization of face , DG , 7 :::::::::::::
+	Alt V Alt : 0.46 ± 0.0
+	Alt V Orig NMI : 0.03 ± 0.0
+	Alt : 54.46 ± 0.0
+	CQ : 0.57 ± 0.0
+	Cost : 53.89 ± 0.0
+	Time : 167433.68 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.46	0.46±0.0	0.57±0.0	0.03±0.0	53.89±0.0	167433.68±0.0
+:::::::::::::   Pickle Initialization of face , DG , 5 :::::::::::::
+	Alt V Alt : 0.45 ± 0.0
+	Alt V Orig NMI : 0.05 ± 0.0
+	Alt : 54.18 ± 0.0
+	CQ : 0.55 ± 0.0
+	Cost : 53.64 ± 0.0
+	Time : 168283.51 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.45	0.45±0.0	0.55±0.0	0.05±0.0	53.64±0.0	168283.51±0.0
+:::::::::::::   Pickle Initialization of face , DG , 8 :::::::::::::
+	Alt V Alt : 0.54 ± 0.0
+	Alt V Orig NMI : 0.0 ± 0.0
+	Alt : 60.11 ± 0.0
+	CQ : 0.59 ± 0.0
+	Cost : 59.52 ± 0.0
+	Time : 169198.9 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.54	0.54±0.0	0.59±0.0	0.0±0.0	59.52±0.0	169198.9±0.0
+:::::::::::::   Pickle Initialization of face , DG , 1 :::::::::::::
+	Alt V Alt : 0.42 ± 0.0
+	Alt V Orig NMI : 0.03 ± 0.0
+	Alt : 52.83 ± 0.0
+	CQ : 0.58 ± 0.0
+	Cost : 52.25 ± 0.0
+	Time : 175206.44 ± 0.0
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.42	0.42±0.0	0.58±0.0	0.03±0.0	52.25±0.0	175206.44±0.0
+:::::::: ISM default RUN  at face ::::::::
+--- 1.52317094803 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.567
+	Alt vs Orig NMI : 0.004
+	Cost : 59.7422252499
+	CQ : 0.608202309744
+	Altness : 60.3504275596
+	Lagrange Gradient : 42.5809778691
+
+	Run Hash : 04d740f1-f343-434d-a54a-edb4f78a1983
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.567	0.567	0.608	0.004	59.742	1.523	0.567	59.742	1.523
+:::::::: RUN  with W0 at face using DG ::::::::
+--- 102467.548138 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.564
+	Alt vs Orig NMI : 0.004
+	Cost : 59.8002750867
+	CQ : 0.607239710942
+	Altness : 60.4075147976
+	Lagrange Gradient : 43.9815577269
+
+	Run Hash : 507e1e2f-57d9-4bf8-a214-97a07a428275
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.564	0.564	0.607	0.004	59.8	102467.548	0.564	59.8	102467.548
+:::::::: RUN  with W0 at face using DG ::::::::
+:::::::::::::   Pickle Initialization of face , ISM , 0 :::::::::::::
+	Alt V Alt : 0.56 ± 0.002
+	Alt V Orig NMI : 0.0 ± 0.0
+	Alt : 60.21 ± 0.118
+	CQ : 0.61 ± 0.0
+	Cost : 59.6 ± 0.118
+	Time : 1.51 ± 0.146
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	sigma_ratio : 1
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	lambda_ratio : 1
+	:::::  Past into data table ::::::
+	0.57	0.56±0.002	0.61±0.0	0.0±0.0	59.6±0.118	1.51±0.146
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 7.9600610733 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.562
+	Alt vs Orig NMI : 0.004
+	Cost : 59.5585619627
+	CQ : 0.608191403674
+	Altness : 60.1667533664
+	Lagrange Gradient : 43.5735924314
+
+	Run Hash : 965cde22-17ef-4601-9446-64cbbf4ef6a0
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.562	0.562	0.608	0.004	59.559	7.96	0.562	59.559	7.96
+:::::::: RUN  with W0 at face using SM ::::::::
+--- 22.358038187 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.563
+	Alt vs Orig NMI : 0.004
+	Cost : 59.5529553142
+	CQ : 0.608191403674
+	Altness : 60.1611467179
+	Lagrange Gradient : 43.5886450669
+
+	Run Hash : 726411d5-d5ad-4679-9370-91bd8da57ed9
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.563	0.563	0.608	0.004	59.553	22.358	0.563	59.553	22.358
+:::::::: ISM default RUN  at face ::::::::
+--- 2.67789912224 seconds ---
+	q used : 17
+	orig num clusters :20
+	alt num clusters :4
+	sigma used : 3.17149029265
+	median of pairwise distance : 6.3429805853
+	lambda used : 1
+	Alt vs Alt NMI : 0.56
+	Alt vs Orig NMI : 0.005
+	Cost : 59.3657364717
+	CQ : 0.608202309744
+	Altness : 59.9739387814
+	Lagrange Gradient : 42.088912405
+
+	Run Hash : 58785d89-fd17-4315-9435-399fcbfddf8d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.56	0.56	0.608	0.005	59.366	2.678	0.56	59.366	2.678

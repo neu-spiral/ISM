@@ -1,0 +1,478 @@
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 1.90276312828 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : -0.0
+	Alt vs Orig NMI : 1.0
+	Cost : -0.0236549838846
+	CQ : 1.99582467944
+	Altness : 197.216969555
+	Lagrange Gradient : 10.7750280407
+
+	Run Hash : b10677c8-a89d-4ee5-a9bd-6933d1657114
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	-0.0	-0.0	1.996	1.0	-0.024	1.903	-0.0	-0.024	1.903
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 1.92818307877 seconds ---
+	q used : 1
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.343
+	Alt vs Orig NMI : 0.0
+	Cost : -1.10221467173
+	CQ : 1.11156637045
+	Altness : 0.093516987215
+	Lagrange Gradient : 0.745939336022
+
+	Run Hash : d8a823b8-76c8-4eb2-a28b-6d14ee6df4e8
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.343	0.343	1.112	0.0	-1.102	1.928	0.343	-1.102	1.928
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.732306003571 seconds ---
+	q used : 1
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.52
+	Alt vs Orig NMI : 0.0
+	Cost : -1.87715427461
+	CQ : 1.89996090141
+	Altness : 0.0228066268084
+	Lagrange Gradient : 0.00236890630949
+
+	Run Hash : 6ea63459-ee70-4da3-94a2-68849763d6cb
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.52	0.52	1.9	0.0	-1.877	0.732	0.52	-1.877	0.732
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.244283914566 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.96
+	Alt vs Orig NMI : 0.0
+	Cost : 133.981442296
+	CQ : 1.97830639395
+	Altness : 135.95974869
+	Lagrange Gradient : 23.910217716
+
+	Run Hash : 0f0ff46e-6300-4f27-8b35-2470d8d71c4d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.96	0.96	1.978	0.0	133.981	0.244	0.96	133.981	0.244
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.197514057159 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.796
+	Alt vs Orig NMI : -0.0
+	Cost : 107.903709077
+	CQ : 1.92196008407
+	Altness : 109.825669161
+	Lagrange Gradient : 36.8285709177
+
+	Run Hash : 0f1d0552-069a-47d5-90b3-fd3ea823d1f3
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.796	0.796	1.922	-0.0	107.904	0.198	0.796	107.904	0.198
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.20538187027 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.902
+	Alt vs Orig NMI : 0.0
+	Cost : 119.15263324
+	CQ : 1.9543733254
+	Altness : 121.107006566
+	Lagrange Gradient : 30.8659856252
+
+	Run Hash : 85946597-c31e-4a36-a19b-4af2047b7086
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.902	0.902	1.954	0.0	119.153	0.205	0.902	119.153	0.205
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.217136859894 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.96
+	Alt vs Orig NMI : 0.0
+	Cost : 137.286472594
+	CQ : 1.98206611227
+	Altness : 139.268538707
+	Lagrange Gradient : 22.2230916944
+
+	Run Hash : df1174a8-bfe6-42f9-8042-0a172aa591d1
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.96	0.96	1.982	0.0	137.286	0.217	0.96	137.286	0.217
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.285233020782 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 144.328884897
+	CQ : 1.98847677437
+	Altness : 146.317361671
+	Lagrange Gradient : 18.5190851879
+
+	Run Hash : 053e2b6a-d34b-406d-8fb9-99c17a11138f
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	144.329	0.285	1.0	144.329	0.285
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.237008094788 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 1461.1544613
+	CQ : 1.98846881325
+	Altness : 146.314293011
+	Lagrange Gradient : 196.815810836
+
+	Run Hash : 631560a2-0a0b-4022-bc39-7bdb5eb1b338
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	1461.154	0.237	1.0	1461.154	0.237
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.204622983932 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 7313.71050023
+	CQ : 1.98846796293
+	Altness : 146.313979364
+	Lagrange Gradient : 1077.64975054
+
+	Run Hash : 2f7bad88-abc0-44b0-965c-b91c7b6d8cbf
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	7313.711	0.205	1.0	7313.711	0.205
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 1.5831360817 seconds ---
+	q used : 1
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.464
+	Alt vs Orig NMI : 0.0
+	Cost : 17.2732159429
+	CQ : 1.78114080976
+	Altness : 0.381087135054
+	Lagrange Gradient : 190.102988816
+
+	Run Hash : 5fd1130b-6ce0-42ca-a5ba-4998c3a01515
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.464	0.464	1.781	0.0	17.273	1.583	0.464	17.273	1.583
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.24288892746 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 7313.71050023
+	CQ : 1.98846796293
+	Altness : 146.313979364
+	Lagrange Gradient : 1077.64975054
+
+	Run Hash : 91bf4f41-1849-4088-8967-a017e2d1aee8
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	7313.711	0.243	1.0	7313.711	0.243
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.213150978088 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 7313.71050023
+	CQ : 1.98846796293
+	Altness : 146.313979364
+	Lagrange Gradient : 1077.64975054
+
+	Run Hash : 0b764b2e-b861-4d03-8859-b2d4ffcd498d
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	7313.711	0.213	1.0	7313.711	0.213
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.225965976715 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 7313.71050023
+	CQ : 1.98846796293
+	Altness : 146.313979364
+	Lagrange Gradient : 1077.64975054
+
+	Run Hash : 9bfeb0be-ecfe-4a83-8dd1-ecd27bc38584
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	7313.711	0.226	1.0	7313.711	0.226
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.21461892128 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 7313.71050023
+	CQ : 1.98846796293
+	Altness : 146.313979364
+	Lagrange Gradient : 1077.64975054
+
+	Run Hash : 663e1241-b93d-4519-8788-13c8f73c22f3
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	7313.711	0.215	1.0	7313.711	0.215
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.250726938248 seconds ---
+	q used : 4
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 0.96
+	Alt vs Orig NMI : 0.0
+	Cost : 5404.46985093
+	CQ : 1.96639770786
+	Altness : 108.128724973
+	Lagrange Gradient : 11798.2088175
+
+	Run Hash : 7ad2a248-106b-4ef3-b99c-6fd28518c28b
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	0.96	0.96	1.966	0.0	5404.47	0.251	0.96	5404.47	0.251
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.255952835083 seconds ---
+	q used : 2
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 18.0393557011
+	CQ : 1.95697437715
+	Altness : 0.399926601564
+	Lagrange Gradient : 0.464891537735
+
+	Run Hash : 27b7223d-4d0e-4071-9409-e5f037d6d008
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.957	-0.0	18.039	0.256	1.0	18.039	0.256
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.224186897278 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 7313.71050023
+	CQ : 1.98846796293
+	Altness : 146.313979364
+	Lagrange Gradient : 1077.64975054
+
+	Run Hash : 01b5a67c-2c14-4ef6-8190-a319a6a369b1
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	7313.711	0.224	1.0	7313.711	0.224
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.254166841507 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 1461.1544613
+	CQ : 1.98846881325
+	Altness : 146.314293011
+	Lagrange Gradient : 196.815810836
+
+	Run Hash : c0cc41c0-bc36-4804-b004-1e2a03b01dc7
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	1461.154	0.254	1.0	1461.154	0.254
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.308161020279 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 144.328884897
+	CQ : 1.98847677437
+	Altness : 146.317361671
+	Lagrange Gradient : 18.5190851879
+
+	Run Hash : da9dd182-3153-41bb-b99b-7cfdc983dfd1
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.988	-0.0	144.329	0.308	1.0	144.329	0.308
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.307750940323 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 12.6473245935
+	CQ : 1.98854655374
+	Altness : 146.358711473
+	Lagrange Gradient : 1.82820391933
+
+	Run Hash : a8a79419-a193-4190-9e79-393cbc4494cc
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.989	-0.0	12.647	0.308	1.0	12.647	0.308
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 1.72574591637 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : -0.0
+	Alt vs Orig NMI : 1.0
+	Cost : -0.00731280527987
+	CQ : 1.99918775473
+	Altness : 199.187494945
+	Lagrange Gradient : 0.184076296553
+
+	Run Hash : 5a8d9293-d504-4170-9fc8-c7aa8a757b2c
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	-0.0	-0.0	1.999	1.0	-0.007	1.726	-0.0	-0.007	1.726
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.326878070831 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 5.33224990521
+	CQ : 1.98861031587
+	Altness : 146.417204422
+	Lagrange Gradient : 0.757847326211
+
+	Run Hash : f6ed5401-b8cb-418b-8141-5e80886f0732
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.989	-0.0	5.332	0.327	1.0	5.332	0.327
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.330749034882 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 5.33224990521
+	CQ : 1.98861031587
+	Altness : 146.417204422
+	Lagrange Gradient : 0.757847326211
+
+	Run Hash : 1fa87df1-da0a-4b13-8df9-22fdda77378a
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.989	-0.0	5.332	0.331	1.0	5.332	0.331
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.322028160095 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 5.33224990521
+	CQ : 1.98861031587
+	Altness : 146.417204422
+	Lagrange Gradient : 0.757847326211
+
+	Run Hash : b16f6cd5-1717-452b-b9ce-1c36aa812c79
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.989	-0.0	5.332	0.322	1.0	5.332	0.322
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.327378988266 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 5.33224990521
+	CQ : 1.98861031587
+	Altness : 146.417204422
+	Lagrange Gradient : 0.757847326211
+
+	Run Hash : b4bfcf88-5c07-4773-9921-9eac8eaf677f
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.989	-0.0	5.332	0.327	1.0	5.332	0.327
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.327641010284 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	median of pairwise distance : 3.69517096362
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 5.33224990521
+	CQ : 1.98861031587
+	Altness : 146.417204422
+	Lagrange Gradient : 0.757847326211
+
+	Run Hash : 41fe0f73-d011-4c7a-a899-96ea04073dcd
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.989	-0.0	5.332	0.328	1.0	5.332	0.328
+:::::::: ISM default RUN  at moon_N_200x7 ::::::::
+--- 0.231871128082 seconds ---
+	q used : 6
+	orig num clusters :2
+	alt num clusters :2
+	sigma used : 0.2
+	median of pairwise distance : 3.69517096362
+	lambda used : 0.1
+	Alt vs Alt NMI : 1.0
+	Alt vs Orig NMI : -0.0
+	Cost : 15.2537425841
+	CQ : 1.99940086648
+	Altness : 172.531434506
+	Lagrange Gradient : 0.95692603591
+
+	Run Hash : de5e4756-0b35-4e73-984d-e51f1bd43f5c
+	:::::::::: Cut and Paste :::::::
+	Best	MNI	CQ	Alt	Cost	Time	NMI	Cost	Time
+	1.0	1.0	1.999	-0.0	15.254	0.232	1.0	15.254	0.232
