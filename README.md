@@ -1,6 +1,8 @@
-# Project Title
+# Iterative Spectral Method ( ISM ) 
 
-One Paragraph of project description goes here
+Iterative Spectral Method (ISM) is an optimization technique that could be used to solve many HSIC related problems with a Gaussian Kernel. This repository contains an implemented ISM for Kernel Dimensionality Alternative Clustering (KDAC). KDAC was originally published in Pattern Analysis and Machine Intelligence.
+
+Niu, Donglin, Jennifer G. Dy, and Michael I. Jordan. "Iterative discovery of multiple alternativeclustering views." IEEE transactions on pattern analysis and machine intelligence 36.7 (2014): 1340-1353.
 
 ## Getting Started
 
