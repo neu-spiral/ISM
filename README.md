@@ -37,3 +37,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 We would like to acknowledge support for this project from the NSF grant IIS-1546428.
+
+## Citation
+
+@inproceedings{distFW,
+     author = {Wu, Chieh and Ioannidis, Stratis},
+     booktitle = {ICDM},
+     title = {Distributing Frank-Wolfe via Map-Reduce},
+     year = {2017}
+     }
