@@ -39,10 +39,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 We would like to acknowledge support for this project from the NSF grant IIS-1546428.
 
 ## Citation
-
-@inproceedings{distFW,
-     author = {Wu, Chieh and Ioannidis, Stratis},
-     booktitle = {ICDM},
-     title = {Distributing Frank-Wolfe via Map-Reduce},
-     year = {2017}
-     }
+```
+@inproceedings{wu2017ISM,
+  title={Iterative Spectral Method for Alternative Clustering},
+  author={Wu, Chieh and Ioannidis, Stratis},
+  booktitle={Artificial Intelligence and Statistics},
+  year={2017}
+}
+```
