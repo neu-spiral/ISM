@@ -24,7 +24,7 @@ The experiments should run by uncommenting the appropriate experiment within mai
 
 ## Contributors
 
-* **Chieh Wu** , **Stratis Ioannidis**
+* **Chieh Wu** , **Stratis Ioannidis** , **Mario Sznaier** , **Xiangyu Li** , **Yale Chang** , **David Kaeli** , **Jennifer Dy**
 
 
 
