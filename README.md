@@ -30,7 +30,7 @@ The experiments should run by uncommenting the appropriate experiment within mai
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/neu-spiral/ISM/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
