@@ -21,27 +21,28 @@ The experiments should run by uncommenting the appropriate experiment within mai
 
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/neu-spiral/ISM/blob/master/LICENSE) file for details
+
+
+
+## Citation
+If you intend to use our code in your research, please cite our paper as follows:
+```
+@inproceedings{wu2017ISM,
+  title={Iterative Spectral Method for Alternative Clustering},
+  author={Wu, Chieh and Ioannidis, Stratis and Mario, Sznaier and Xiangyu, Li and David, Kaeli and Jennifer, Dy},
+  booktitle={Artificial Intelligence and Statistics},
+  year={2018}
+}
+```
+
 
 ## Contributors
 
 * **Chieh Wu** , **Stratis Ioannidis** , **Mario Sznaier** , **Xiangyu Li** , **Yale Chang** , **David Kaeli** , **Jennifer Dy**
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/neu-spiral/ISM/blob/master/LICENSE) file for details
-
 ## Acknowledgments
 
 We would like to acknowledge support for this project from the NSF grant IIS-1546428.
-
-## Citation
-```
-@inproceedings{wu2017ISM,
-  title={Iterative Spectral Method for Alternative Clustering},
-  author={Wu, Chieh and Ioannidis, Stratis},
-  booktitle={Artificial Intelligence and Statistics},
-  year={2017}
-}
-```
